@@ -1,0 +1,6 @@
+# Virtualenv
+/venv
+
+# Pycache
+/__pycache__
+/routers/__pycache__
